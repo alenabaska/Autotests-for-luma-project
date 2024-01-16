@@ -1,6 +1,6 @@
 from time import sleep
 from pages.men_category_page.men_tops_page import MenTops
-from data.men_page_url import TOPS_MEN_PAGE, CASSIUS_SPARRING_TANK
+from data.men_page_url import TOPS_MEN_PAGE
 
 
 class TestMenTopsPage:
